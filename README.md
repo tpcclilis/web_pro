@@ -1,7 +1,7 @@
 # web_pro
 web pro 2020
 
-#setup db:
+# setup db:
 nama db : perpus
 CREATE TABLE `pengarang` (
 `id` int(11) NOT NULL AUTO_INCREMENT,
